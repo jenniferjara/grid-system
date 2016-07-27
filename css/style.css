@@ -1,0 +1,65 @@
+/* Inserta tu código aqui */
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+
+}
+header {
+	background-color: #333333;
+	overflow: hidden;
+}
+
+header div div nav ul {
+	list-style: none;
+}
+
+header div div nav ul li {
+	float: right;
+}
+
+header div div nav ul li a {
+	padding: 30px 10px;
+	display: block;
+	text-decoration: none;
+	color:white;
+}
+
+.logo {
+	width: 50%;
+}
+
+.barra-2 {
+	background-color: #EEEEEE;
+	padding: 10px;
+}
+
+.texto {
+	display: inline;
+}
+
+.images {
+	width: 200px;
+}
+
+.tamaño {
+	width: 100px;
+	height: 100px;
+}
+
+footer {
+	background-color: #333333;
+}
+
+.footer-text {
+	padding: 10px;
+	color:white;
+	text-align: center;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+	padding: 20px 5px;
+}
